@@ -1,0 +1,3 @@
+- Functions were clearly defined in Home.java and thus called wherever required.
+- Clearly separated java functionality in servlets from jsp where html pages were generated with data
+- Security concerns as credential checking doesn't happpen at each page. You could enter the localhost:8080/p2/home.jsp to bypass login
